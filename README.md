@@ -9,6 +9,8 @@ Starter repository for **ZSK students** — a lightweight, ready-to-use Express.
 This project provides a simple, clean boilerplate for building Node.js applications with **Express.js**.  
 It includes configuration for **ESLint**, **Prettier**, and **Nodemon**, allowing you to start coding immediately with consistent code style and automatic restarts during development.
 
+> **Note:** This project requires **Node.js version 22** or higher.
+
 ---
 
 ## 🧰 How to Use This Template
