@@ -27,9 +27,11 @@ It includes configuration for **ESLint**, **Prettier**, and **Nodemon**, allowin
 ## ⚙️ Dependencies
 
 ### Runtime dependencies
+
 - [`express`](https://www.npmjs.com/package/express) — Web framework for Node.js (version 4)
 
 ### Development dependencies
+
 - [`eslint`](https://www.npmjs.com/package/eslint) — JavaScript linter
 - [`@eslint/js`](https://www.npmjs.com/package/@eslint/js) — ESLint base configuration
 - [`@eslint/json`](https://www.npmjs.com/package/@eslint/json) — JSON linting support
@@ -41,12 +43,12 @@ It includes configuration for **ESLint**, **Prettier**, and **Nodemon**, allowin
 
 ## 💻 NPM Scripts
 
-| Command | Description |
-|----------|-------------|
-| `npm start` | Runs the server with **nodemon** (entry: `index.js`) |
-| `npm run inspect` | Runs the server in **debug mode** with nodemon |
-| `npm run format` | Formats code using **Prettier** |
-| `npm run lint` | Runs **ESLint** to check for issues |
+| Command            | Description                                            |
+| ------------------ | ------------------------------------------------------ |
+| `npm start`        | Runs the server with **nodemon** (entry: `index.js`)   |
+| `npm run inspect`  | Runs the server in **debug mode** with nodemon         |
+| `npm run format`   | Formats code using **Prettier**                        |
+| `npm run lint`     | Runs **ESLint** to check for issues                    |
 | `npm run lint:fix` | Runs **ESLint** and automatically fixes fixable issues |
 
 ---
@@ -63,4 +65,3 @@ Feel free to modify and expand it for your projects.
 ## 📄 License
 
 This template is provided under the [MIT License](LICENSE).
-
